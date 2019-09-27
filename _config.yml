@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "iRobot"
 title_separator          : "-"
-name                     : &name "Adarsh Patnaik"
+name                     : &Adarsh Patnaik "Adarsh Patnaik"
 description              : &description "Robotics|Autonomous Vehicles|Controls and Motion Planning|Machine Learning"
 url                      : https://starlordadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
