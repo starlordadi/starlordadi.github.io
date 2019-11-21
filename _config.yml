@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "iRobot"
 title_separator          : "-"
 name                     : &name "Adarsh Patnaik"
-description              : &description "Robotics|Autonomous Vehicles|Controls and Motion Planning|Machine Learning"
+description              : &description "Optimization in Controls|Learning based Control|Model Predictive Control"
 url                      : https://starlordadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "starlordadi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adarsh Patnaik"
   avatar           : "profile_image.jpg"
-  bio              : "Robotics|Autonomous Vehicles|Controls and Motion Planning|Machine Learning"
+  bio              : "Optimization in Controls|Learning based Control|Model Predictive Control|Autonomous Vehicles|"
   location         : "Kharagpur, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/adarsh-patnaik-a57667149"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
