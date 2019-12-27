@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech. in Mechanical Engineering, IIT Kharagpur, 2017-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Researcher, Autonomous Ground Vehicle Research Group
+  * 2018 to Present
+  * Research Area: Controls and Trajectory Optimization for Autonomous Vehicles
+  * Guide: Prof. Debasish Chakravarty
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Remote Research Assistant, System Controls Department, IIT Bombay
+  * Jun-2019 to Aug-2019
+  * Research Area: Controls in Multi Agent systems for swarm aggregation and formation.
+  * Guide: Dr. Leena Vachhani
+ 
+* Undergraduate Research Assistant, FMS and Computer Integrated Manufacturing Laboratory
+  * Aug-2019 to Present
+  * Research Area: Trajectory Optimization for Robotic Manipulators
+  * Guide: Dr. Sankha Deb
