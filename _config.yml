@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "iRobot"
+title                    : "Adarsh Patnaik"
 title_separator          : "-"
 name                     : &name "Adarsh Patnaik"
 description              : &description "Optimization in Controls|Learning based Control|Model Predictive Control"
