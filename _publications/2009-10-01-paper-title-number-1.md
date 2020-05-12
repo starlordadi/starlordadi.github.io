@@ -10,4 +10,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ''
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/IGVC_paper.pdf)
