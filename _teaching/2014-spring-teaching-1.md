@@ -1,8 +1,8 @@
 ---
-title: "Project-1"
+title: "DIC’s Terrace Farming Robot for Hilly Areas, IIT Roorkee"
 collection: projects
 type: "Robotics"
-permalink: /projects/project_1
+permalink: /projects/terrace_farming
 venue: "IIT Kharagpur"
 ---
 
